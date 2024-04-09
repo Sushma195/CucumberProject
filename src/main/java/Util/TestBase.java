@@ -69,6 +69,5 @@ public class TestBase {
 			searchPage = PageFactory.initElements(driver, Search_Page.class);
 		}
 		return driver;
-		return driver;
 	}
 }
